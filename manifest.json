@@ -1,0 +1,14 @@
+{
+    "name": "Cricket Updates",
+    "author": "Bidipta Bardhan",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "description": "Bidipta's created extension",
+    "action":{
+        "default_popup": "index.html",
+        "default_icon": "icon.png"
+    },
+    "icons":{
+        "128": "icon.png"
+    }
+}
